@@ -3,16 +3,16 @@ A simple rock, paper, scissors game with stat elements, built in C. (Not yet fin
 This game combines luck with strategy, featuring character creation, randomized enemies, and basic combat mechanics.
 
 🎮 Features
-  📁 File handling (saving/loading characters)
-  🧱 Use of struct for entity management
-  🎲 Randomized enemy stat generation]
-  👤 Character creation with class selection (Knight, Lancer, Viking)
-  🔄 Load previously saved characters
-  ✊🖐✌ Turn-based combat using rock-paper-scissors
-  ⚔️ Attack, defense, speed, and HP stat mechanics
-  🛡 Dodge chance based on speed difference
-  📊 Display of character/enemy stats
-  🧹 Console clearing and input validation
+  -  📁 File handling (saving/loading characters)
+  -  🧱 Use of struct for entity management
+  -  🎲 Randomized enemy stat generation]
+  -  👤 Character creation with class selection (Knight, Lancer, Viking)
+  -  🔄 Load previously saved characters
+  -  ✊🖐✌ Turn-based combat using rock-paper-scissors
+  -  ⚔️ Attack, defense, speed, and HP stat mechanics
+  -  🛡 Dodge chance based on speed difference
+  -  📊 Display of character/enemy stats
+  -  🧹 Console clearing and input validation
 
 🛠 Technologies
   -  Language: C (Standard C89/C99)
